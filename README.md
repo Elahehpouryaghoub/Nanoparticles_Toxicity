@@ -1,7 +1,7 @@
 # Nanoparticles_Toxicity
 ### **🔹 Introduction**
 
-This project explores **nanoparticle toxicity classification** using a dataset containing various nanoparticles and their physicochemical properties. The dataset includes features such as **core size, hydrosize, surface charge, surface area, Ec (energy-related property), exposure time, dosage, and number of oxygen atoms**. The final column represents toxicity, where **1 indicates toxic** and **0 indicates non-toxic**.
+This project explores **nanoparticle toxicity classification** using a dataset containing various nanoparticles and their physicochemical properties. The dataset includes features such as **core size, hydrosize(hydrodynamic size of the NPs), surface charge, surface area, Ec (electric charge), exposure time, e (energy related feature possibly Electron Affinity or Energy Dissipation), dosage, and number of oxygen atoms**. The final column represents toxicity, where **1 indicates toxic** and **0 indicates non-toxic**.
 
 ---
 
