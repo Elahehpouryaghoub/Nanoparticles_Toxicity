@@ -34,3 +34,9 @@ Finally, a **Feature Importance Plot** was generated for tree-based models (**XG
 ### **🔹 Conclusion**
 
 The results suggest that **XGBoost, Random Forest, and ANN are the most effective models for nanoparticle toxicity classification** due to their ability to **minimize False Negatives while maintaining high accuracy**. The findings highlight that **dosage and oxygen content** play a crucial role in determining toxicity, making them key factors for future research and regulatory assessments.
+
+## ✉ Contact
+If you have any questions or feedback, feel free to reach out!
+- **LinkedIn:** www.linkedin.com/in/elaheh-p-9918432a6
+
+ **If you find this project useful, please ⭐ star the repository!** ⭐
