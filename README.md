@@ -10,7 +10,7 @@ This project explores **nanoparticle toxicity classification** using a dataset c
 After loading the dataset, **preprocessing** was performed to ensure compatibility with machine learning models.
 
 1️⃣ **One-Hot Encoding** was applied to transform the categorical **nanoparticle (NPs) column** into a numerical format, making it suitable for machine learning. Since One-Hot Encoding produces only **0s and 1s**, these values remained unchanged even after normalization.
- 2️⃣  **A correlation heatmap** was generated to visually assess the linear relationships between all features and the target class (toxicity). This helped identify features with strong positive or negative correlations to toxicity, such as NOxygen,NPs_TiO2, and NPs_ZnO providing early insights into which variables might be influential in predicting nanoparticle toxicity. 
+ 2️⃣ **A correlation heatmap** was generated to visually assess the linear relationships between all features and the target class (toxicity). This helped identify features with strong positive or negative correlations to toxicity, such as NOxygen,NPs_TiO2, and NPs_ZnO providing early insights into which variables might be influential in predicting nanoparticle toxicity. 
 
 3️⃣ The **target column (toxicity label)** was separated from the feature set, and the dataset was split into **training (80%) and testing (20%) sets**.
 
